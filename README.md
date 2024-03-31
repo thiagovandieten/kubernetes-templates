@@ -1,0 +1,1 @@
+These are just simple template files for Kubernetes that I learned to create through Kodekloud's basic kubernetes course.
